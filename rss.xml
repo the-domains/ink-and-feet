@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ink and Feet]]></title>
+        <description><![CDATA[Ink and Feet]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 10:06:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My (Other) Big Secret]]></title>
+            <description><![CDATA[<article><h1>My (Other) Big Secret</h1><p>Last week told you about my big secret, how being scared is what pushes me to take chances, live all over the world, and go after the life I believe in.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/665a2302d6d0be95aae0f51df18dfba79a41683e.jpg"></article>]]></description>
+            <link>undefinedmy-other-big-secret/index.html</link>
+            <guid isPermaLink="false">f62ad664-5325-43e8-950e-b751c148f865</guid>
+            <pubDate>Wed, 17 Feb 2016 10:05:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
